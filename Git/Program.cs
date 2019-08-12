@@ -17,6 +17,8 @@ namespace Git
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            //hola mundo
         }
     }
 }
